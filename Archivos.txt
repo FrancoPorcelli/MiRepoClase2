@@ -1,0 +1,1 @@
+Error tipico numero 1: olvidar el -m "Mensaje" en el commit y abrir el editor VIM
